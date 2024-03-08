@@ -7,7 +7,7 @@ Puedes encontrar la descripción detallada de la prueba en el siguiente enlace:
 
 ## Captura de pantalla
 
-![Captura de pantalla]()
+![Captura de pantalla](Capture.PNG)
 
 ## Realizado por
 
